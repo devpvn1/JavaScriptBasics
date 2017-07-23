@@ -26,8 +26,11 @@ if(null == undefined) //true
 # ECMA5 Object Properties
 1) Data Properties
       a) Configurable
+      
       b) Enumerable
+      
       c) Writable
+      
       d) Value
 eg: 
 var person = {};
