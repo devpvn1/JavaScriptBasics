@@ -5,7 +5,7 @@ Javascript has 3 components
 3) BOM - Browser Object model
 
 # HTML 5
-<!Doctype HTML>
+&lth;!Doctype HTML;&grt;
 otherwise HTML4 or XHTML with Transitional,strict and frameset modes
 
 If doctype is not mentioned, it will go for inconsistent quirkmode rendering
