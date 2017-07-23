@@ -32,10 +32,20 @@ if(null == undefined) //true
       c) Writable
       
       d) Value
+
 eg: 
 var person = {};
 Object.defineProperty(person, name,{
   writable : false,
   value : "Ram"
 });
+
+
+2) Accessor Properties
+
+a) Configurable
+b) Enumerable
+c) Get
+d) Set
+
 
